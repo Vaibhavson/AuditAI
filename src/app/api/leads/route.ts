@@ -66,7 +66,7 @@ export async function POST(req: NextRequest) {
           "Authorization": `Bearer ${resendKey}`,
         },
         body: JSON.stringify({
-          from: "AuditAI <onboarding@resend.dev>",
+          from: "AuditAI <reports@getauditai.com>",
           to: email,
           subject: `Your AI Spend Audit — ${totalSavings > 0 ? `$${totalSavings}/mo in savings found` : "You're spending well"}`,
           html: `
