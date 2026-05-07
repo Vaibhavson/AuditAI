@@ -67,7 +67,7 @@ export async function POST(req: NextRequest) {
         },
         body: JSON.stringify({
           from: "AuditAI <reports@auditai.com>",
-          to: email,
+          to: process.env.ADMIN_EMAIL ?? email,
           subject: `Your AI Spend Audit — ${totalSavings > 0 ? `$${totalSavings}/mo in savings found` : "You're spending well"}`,
           html: `
             <h2>Your AI Spend Audit Results</h2>
