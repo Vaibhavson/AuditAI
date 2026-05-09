@@ -1,6 +1,6 @@
 # User interview
 
-## Interview - 1(Anmol Tiwari)
+## Interview - 1(Shreyan Bhattacharya)
 
 Role - Software Development Engineer (Honeywell)
 Interview Date - 9/5/2026

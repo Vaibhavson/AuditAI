@@ -6,7 +6,21 @@ AuditAI helps startup founders and engineering managers instantly audit their AI
 
 ## Screenshots
 
-> Add 3 screenshots here after deployment (homepage, audit form, results page)
+### Home page screenshots
+![Home Page](./screenshots/landingpage.png)
+
+### Form page screenshot
+![Form page](./screenshots/formpage.png)
+
+### Results page screenshots
+![Results page](./screenshots/resultspage1.png)
+![Results page 2](./screenshots/resultspage2.png)
+
+### Recieved male screenshots
+![Recieved male](./screenshots/mailpage.png)
+
+### Data stored(Database) screenshot
+![Database](./screenshots/database.png)
 
 ## Quick Start
 
@@ -24,12 +38,12 @@ Open [http://localhost:3000](http://localhost:3000)
 ## Environment Variables
 
 ```
-ANTHROPIC_API_KEY=
-NEXT_PUBLIC_SUPABASE_URL=
-SUPABASE_SERVICE_ROLE_KEY=
-NEXT_PUBLIC_SUPABASE_ANON_KEY=
-RESEND_API_KEY=
-NEXT_PUBLIC_BASE_URL=
+ANTHROPIC_API_KEY=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
+NEXT_PUBLIC_SUPABASE_URL=https://cujltrtontydeuddhsqy.supabase.co
+SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImN1amx0cnRvbnR5ZGV1ZGRoc3F5Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3ODE0MzA3NywiZXhwIjoyMDkzNzE5MDc3fQ.NVLUmnMNY6lwcZLkS4HppBoO-q2FFKC305mSsWYCb6U
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImN1amx0cnRvbnR5ZGV1ZGRoc3F5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgxNDMwNzcsImV4cCI6MjA5MzcxOTA3N30.hEozp3a1CaZCA5lxZv2VF1jEuCCZFf8PL6c_cUsxVr8
+RESEND_API_KEY=re_GfS49MYt_DwQoQb1m2R1U8yKyDmdb7Xvv
+NEXT_PUBLIC_BASE_URL=https://your-deployed-url.vercel.app
 ```
 
 ## Deploy
@@ -38,7 +52,6 @@ NEXT_PUBLIC_BASE_URL=
 vercel
 ```
 
-Add all environment variables in Vercel dashboard before deploying.
 
 ## Decisions
 
