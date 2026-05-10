@@ -23,3 +23,8 @@ Day 4 - 09/05/2025
     **What I did** : Have conducted a user interview with Shreyan Bhattacharya, also added secret API keys to my readme files and also added some screenshots
     **What I learned** : How people are using AI tools
     **Plan for tommorow** : User interview with 2nd user
+
+Day 5 - 10/05/2025
+    **Hours worked** : 1 hour
+    **What I did** : Have conducted a 2nd user interview with Soumya Thakur
+    **Plan for tommorow** : Conducting the third and the final interview
