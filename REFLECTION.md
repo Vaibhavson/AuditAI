@@ -20,7 +20,7 @@ I used Claude heavily throughout this project — for generating boilerplate (th
 
 I did not trust Claude with the audit engine logic itself. The savings calculations and rule conditions needed to be defensible to a finance person — I wrote those rules myself and verified each number against the official pricing pages. Claude suggested a rule early on that would have flagged Gemini Ultra as "overkill" for any team under 10 — but Gemini Ultra is a personal plan, not a per-seat plan, so the comparison was wrong. I caught this because I was reading the actual pricing pages rather than accepting the output.
 
-I also didn't trust Claude with the DEVLOG or USER_INTERVIEWS — those needed to reflect my actual experience, not a plausible-sounding synthetic version of it.
+I also didn't trust Claude with the DEVLOG or USER_INTERVIEWS — those needed to reflect my actual experience, not a plausible-sounding synthetic version of it. But used claude for formatting my USER_INTERVIEW.md
 
 ## 5. Self-Rating
 
