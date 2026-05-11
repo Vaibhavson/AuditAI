@@ -32,4 +32,4 @@ Day 5 - 10/05/2025
 Day 6 - 11/05/2025
     **Hours worked** : 1/2 hour
     **What I did** : Have conducted a 2nd user interview with Vaishali Parmar and also formatted my USER_INTERVIEW.md for better adjustment of text.
-    
+    **Next plan** :submit the final github repository
